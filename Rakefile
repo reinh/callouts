@@ -10,7 +10,7 @@ layout: default
 ---
 <div class="map">
   <a href="/">
-    <img src=/img/#{map['img']} />
+    <img src=../img/#{map['img']} />
   </a>
 </div>
 HTML

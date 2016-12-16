@@ -13,14 +13,12 @@ layout: default
 </div>
 
 <script>
- var cards = document.querySelector('.cards');
- var pckry = new Packery( cards, {
-     itemSelector: '.card',
-     percentPosition: true
- });
- imagesLoaded(cards, function() {
-     new Packery(cards);
- })
-
-
+    var cards = document.querySelector('.cards');
+    imagesLoaded(cards, function() {
+        console.log('loaded');
+        var pckry = new Packery( cards, {
+            itemSelector: '.card',
+            percentPosition: true
+        });
+    })
 </script>

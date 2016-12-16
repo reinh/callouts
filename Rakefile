@@ -9,7 +9,7 @@ task :generate do
 layout: default
 ---
 <div class="map">
-  <a href="/">
+  <a href="..">
     <img src=../img/#{map['img']} />
   </a>
 </div>

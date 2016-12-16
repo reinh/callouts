@@ -1,0 +1,36 @@
+- name: Anomaly
+  img: anomaly.jpg
+  slug: anomaly
+- name: Asylum
+  img: asylum.jpg
+  slug: asylum
+- name: Bannerfall
+  img: bannerfall.png
+  slug: bannerfall
+- name: Black Shield
+  img: black-shield.png
+  slug: black-shield
+- name: Burning Shrine
+  img: burning-shrine.png
+  slug: burning-shrine
+- name: Exodus Blue
+  img: exodus-blue.png
+  slug: exodus-blue
+- name: Frontier
+  img: frontier.png
+  slug: frontier
+- name: Pantheon
+  img: pantheon.png
+  slug: pantheon
+- name: Rusted Lands
+  img: rusted-lands.png
+  slug: rusted-lands
+- name: Timekeeper
+  img: timekeeper.png
+  slug: timekeeper
+- name: "Widow's Court"
+  img: widows-court.png
+  slug: widows-court
+- name: Twilight Gap
+  img: twilight-gap.png
+  slug: twilight-gap
